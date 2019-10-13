@@ -1,6 +1,10 @@
 body {
   margin: 0;
   padding: 0;
+<<<<<<< HEAD
   font-family: 'Open Sans' !important;
   font-weight: 700;
+=======
+  font-family: sans-serif;
+>>>>>>> 5cbb1dcaaaeb83d71c043ce547286ef6b1aaf65b
 }
