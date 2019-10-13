@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "snowtooth-react",
   "version": "0.1.0",
   "private": true,
@@ -18,23 +17,6 @@
     "react-router-dom": "^5.1.2",
     "react-scripts": "1.1.5"
   },
-=======
-  "name": "snowtooth-mountain",
-  "version": "0.1.0",
-  "private": true,
-  "dependencies": {
-    "antd": "^3.23.6",
-    "apollo-cache-inmemory": "^1.6.3",
-    "apollo-client": "^2.6.4",
-    "apollo-link-http": "^1.5.16",
-    "graphql": "^14.5.8",
-    "react": "^16.10.2",
-    "react-apollo": "^3.1.2",
-    "react-dom": "^16.10.2",
-    "react-scripts": "0.9.5"
-  },
-  "devDependencies": {},
->>>>>>> 5cbb1dcaaaeb83d71c043ce547286ef6b1aaf65b
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
